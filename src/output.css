@@ -666,6 +666,10 @@ video {
   padding-top: 15px;
 }
 
+.text-center{
+  text-align: center;
+}
+
 .font-sans{
   font-family: Helvetica, Arial, sans-serif;
 }
@@ -736,6 +740,10 @@ video {
 
   .md\:p-\[15px\]{
     padding: 15px;
+  }
+
+  .md\:text-left{
+    text-align: left;
   }
 
   .md\:text-\[15px\]{
