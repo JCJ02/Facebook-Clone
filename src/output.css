@@ -759,6 +759,10 @@ video {
   background-color: rgb(54 164 32 / var(--tw-bg-opacity));
 }
 
+.hover\:underline:hover{
+  text-decoration-line: underline;
+}
+
 @media (min-width: 768px){
   .md\:ml-\[-115px\]{
     margin-left: -115px;
